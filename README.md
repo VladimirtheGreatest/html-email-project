@@ -3,3 +3,6 @@ Html emails for the marketing campaign, newsletters, announcements, sales etc. T
 
 Perfume e-commerce store html-email
 https://perfumeshophtmlemail.netlify.com/
+
+Casino announcement newsletter
+https://casinonewsletter.netlify.com/
