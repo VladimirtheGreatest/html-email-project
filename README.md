@@ -8,4 +8,7 @@ https://perfumeshophtmlemail.netlify.com/
 Casino announcement newsletter
 https://casinonewsletter.netlify.com/
 
+Uber newsletter clone
+https://uber-newsletter-clone.netlify.com/
+
 Please note that these emails are displayed in the website view(only desktop version), they need to be modified by stripping <style> tag and add inline tags and special tags in order to be send as an html-email. 
