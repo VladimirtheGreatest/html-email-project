@@ -14,4 +14,7 @@ https://uber-newsletter-clone.netlify.com/
 Amazon newsletter clone
 https://amazonnewsletterclone.netlify.com/
 
-Please note that these emails are displayed in the website view(desktop version for presentation only), they need to be modified by stripping <style> tag and it is neccessary to add inline tags and special tags in order to be send as an html-email. 
+Pc games advertising e-mail
+https://gamesnews.netlify.com/
+
+Please note that these emails are displayed in the website view(desktop version for presentation only), some of them need to be modified by stripping <style> tag and it is neccessary to add inline tags and special tags in order to be send as an html-email. I tested them on large desktop, laptop, tablet, and small screen such a i-phone 5 and 6.  
