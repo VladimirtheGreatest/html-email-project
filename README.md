@@ -7,8 +7,7 @@ Html emails for the marketing campaigns, newsletters, announcements, sales etc. 
 </p>
 
 <p align="center">
-  <b>Pc games advertising e-mail</b>
-  <a href="https://gamesnews.netlify.com/" target="_blank"></a></p>
+  <a href="https://gamesnews.netlify.com/" target="_blank"><b>Pc games advertising e-mail</b></a></p>
 
 <p align="center">
 <b>Airlines newsletter clone</b>
