@@ -10,26 +10,22 @@ Html emails for the marketing campaigns, newsletters, announcements, sales etc. 
   <a href="https://gamesnews.netlify.com/" target="_blank"><b>Pc games advertising e-mail</b></a></p>
 
 <p align="center">
-<b>Airlines newsletter clone</b>
-<a href="https://airlinesclone.netlify.com/" target="_blank"></a></p>
+<a href="https://airlinesclone.netlify.com/" target="_blank"><b>Airlines newsletter clone</b></a></p>
 
 <p align="center">
-<b>Music festival announcement</b>
-<a href="https://musicfestivalemail.netlify.com/" target="_blank"></a></p>
+<a href="https://musicfestivalemail.netlify.com/" target="_blank"><b>Music festival announcement</b></a></p>
 
 <p align="center">
-<b>Perfume e-commerce store html-email</b>
-<a href="https://perfumeshophtmlemail.netlify.com/" target="_blank"></a></p>
+<a href="https://perfumeshophtmlemail.netlify.com/" target="_blank"><b>Perfume e-commerce store html-email</b></a></p>
 
 <p align="center">
-<b>Casino announcement newsletter</b>
-<a href="https://casinonewsletter.netlify.com/" target="_blank"></a></p>
+<a href="https://casinonewsletter.netlify.com/" target="_blank"><b>Casino announcement newsletter</b></a></p>
 
-<p align="center"><b>Uber newsletter clone</b>
-<a href="https://uber-newsletter-clone.netlify.com/" target="_blank"></a></p>
+<p align="center">
+<a href="https://uber-newsletter-clone.netlify.com/" target="_blank"><b>Uber newsletter clone</b></a></p>
 
-<p align="center"><b>Amazon newsletter clone</b>
-<a href="https://amazonnewsletterclone.netlify.com/" target="_blank"></a></p>
+<p align="center">
+<a href="https://amazonnewsletterclone.netlify.com/" target="_blank"><b>Amazon newsletter clone</b></a></p>
 
 
 
