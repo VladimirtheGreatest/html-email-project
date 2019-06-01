@@ -1,35 +1,35 @@
-# html-emails-project
+<h1 align="center">html-emails-project</h1>
 <p align="center">
-Html emails for the marketing campaign, newsletters, announcements, sales etc. Templates will be displayed as a web page, in order to send them it is neccessary to convert css into inline style css.(Some of them are made from the scratch, for some of them I used and modified templates available on www.Mailchimp.com or used their html-email builder). This project should demonstrate my ability to build html-emails for marketing campaigns and it is part of my developer portfolio. All html-emails are for personal use not commercial, links are fake and companies are clones or fictional.</p> 
+Html emails for the marketing campaigns, newsletters, announcements, sales etc. E-mails will be displayed as a web page, in order to send them it is neccessary to convert css into inline style css.(Some of them are made from the scratch, for some of them I used and modified templates available on www.Mailchimp.com or used their html-email builder). This project should demonstrate my ability to build html-emails for marketing campaigns and it is part of my developer portfolio. All html-emails are for personal use not commercial, links are fake and companies are clones or fictional.</p>
 
 <p align="center">
   <img src="http://mobileit.ie/wp-content/uploads/2014/01/HTML5CSS3Logos1.jpg" width="350" title="hover text">
 </p>
 
 <p align="center">
-Pc games advertising e-mail
+  <b>Pc games advertising e-mail</b>
 https://gamesnews.netlify.com/</p>
 
 <p align="center">
-Airlines newsletter clone
+<b>Airlines newsletter clone</b>
 https://airlinesclone.netlify.com/</p>
 
 <p align="center">
-Music festival announcement
+<b>Music festival announcement</b>
 https://musicfestivalemail.netlify.com/</p>
 
 <p align="center">
-Perfume e-commerce store html-email
+<b>Perfume e-commerce store html-email</b>
 https://perfumeshophtmlemail.netlify.com/</p>
 
 <p align="center">
-Casino announcement newsletter
+<b>Casino announcement newsletter</b>
 https://casinonewsletter.netlify.com/</p>
 
-<p align="center">Uber newsletter clone
+<p align="center"><b>Uber newsletter clone</b>
 https://uber-newsletter-clone.netlify.com/</p>
 
-<p align="center">Amazon newsletter clone
+<p align="center"><b>Amazon newsletter clone</b>
 https://amazonnewsletterclone.netlify.com/</p>
 
 
