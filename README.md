@@ -8,29 +8,29 @@ Html emails for the marketing campaigns, newsletters, announcements, sales etc. 
 
 <p align="center">
   <b>Pc games advertising e-mail</b>
-https://gamesnews.netlify.com/</p>
+  <a href="https://gamesnews.netlify.com/" target="_blank"></a></p>
 
 <p align="center">
 <b>Airlines newsletter clone</b>
-https://airlinesclone.netlify.com/</p>
+<a href="https://airlinesclone.netlify.com/" target="_blank"></a></p>
 
 <p align="center">
 <b>Music festival announcement</b>
-https://musicfestivalemail.netlify.com/</p>
+<a href="https://musicfestivalemail.netlify.com/" target="_blank"></a></p>
 
 <p align="center">
 <b>Perfume e-commerce store html-email</b>
-https://perfumeshophtmlemail.netlify.com/</p>
+<a href="https://perfumeshophtmlemail.netlify.com/" target="_blank"></a></p>
 
 <p align="center">
 <b>Casino announcement newsletter</b>
-https://casinonewsletter.netlify.com/</p>
+<a href="https://casinonewsletter.netlify.com/" target="_blank"></a></p>
 
 <p align="center"><b>Uber newsletter clone</b>
-https://uber-newsletter-clone.netlify.com/</p>
+<a href="https://uber-newsletter-clone.netlify.com/" target="_blank"></a></p>
 
 <p align="center"><b>Amazon newsletter clone</b>
-https://amazonnewsletterclone.netlify.com/</p>
+<a href="https://amazonnewsletterclone.netlify.com/" target="_blank"></a></p>
 
 
 
