@@ -1,6 +1,6 @@
 <h1 align="center">html-emails-project</h1>
 <p align="center">
-Html emails for the marketing campaigns, newsletters, announcements, sales etc. E-mails will be displayed as a web page, in order to send them it is necessary to convert css into inline style css.(Some of them are made from the scratch, for some of them I used and modified templates available on www.Mailchimp.com or used their html-email builder). This project should demonstrate my ability to build html-emails for marketing campaigns and it is part of my developer portfolio. All html-emails are for personal use not commercial, links are fake and companies are clones or fictional.</p>
+Html emails for the marketing campaigns, newsletters, announcements, sales etc. E-mails will be displayed as a web page, in order to send them it is necessary to convert css into inline style css.(Some of them are made from scratch, for some of them I used and modified templates available on www.Mailchimp.com or used their html-email builder). This project should demonstrate my ability to build html-emails for marketing campaigns and it is part of my developer portfolio. All html-emails are for personal use not commercial, links are fake and companies are clones or fictional.</p>
 
 <p align="center">
   <img src="http://mobileit.ie/wp-content/uploads/2014/01/HTML5CSS3Logos1.jpg" width="350" title="hover text">
